@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b98fe601-63eb-4bb7-8e55-8a50339cb52a" name="Default Changelist" comment="" />
+    <list default="true" id="b98fe601-63eb-4bb7-8e55-8a50339cb52a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/cards_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards_tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/cards_tools.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,6 +84,7 @@
       <workItem from="1586588150567" duration="601000" />
       <workItem from="1586677835400" duration="3151000" />
       <workItem from="1586759005421" duration="5901000" />
+      <workItem from="1586927328149" duration="7345000" />
     </task>
     <servers />
   </component>
@@ -95,28 +100,32 @@
       <screen x="0" y="0" width="1549" height="871" />
     </state>
     <state x="555" y="191" key="FileChooserDialogImpl/0.0.1549.871@0.0.1549.871" timestamp="1586766163816" />
-    <state width="1506" height="238" key="GridCell.Tab.0.bottom" timestamp="1586785250716">
+    <state width="1506" height="134" key="GridCell.Tab.0.bottom" timestamp="1586935982275">
       <screen x="0" y="0" width="1549" height="871" />
     </state>
-    <state width="1506" height="238" key="GridCell.Tab.0.bottom/0.0.1549.871@0.0.1549.871" timestamp="1586785250716" />
-    <state width="1506" height="238" key="GridCell.Tab.0.center" timestamp="1586785250716">
+    <state width="1506" height="134" key="GridCell.Tab.0.bottom/0.0.1549.871@0.0.1549.871" timestamp="1586935982275" />
+    <state width="1506" height="134" key="GridCell.Tab.0.center" timestamp="1586935982275">
       <screen x="0" y="0" width="1549" height="871" />
     </state>
-    <state width="1506" height="238" key="GridCell.Tab.0.center/0.0.1549.871@0.0.1549.871" timestamp="1586785250716" />
-    <state width="1506" height="238" key="GridCell.Tab.0.left" timestamp="1586785250716">
+    <state width="1506" height="134" key="GridCell.Tab.0.center/0.0.1549.871@0.0.1549.871" timestamp="1586935982275" />
+    <state width="1506" height="134" key="GridCell.Tab.0.left" timestamp="1586935982275">
       <screen x="0" y="0" width="1549" height="871" />
     </state>
-    <state width="1506" height="238" key="GridCell.Tab.0.left/0.0.1549.871@0.0.1549.871" timestamp="1586785250716" />
-    <state width="1506" height="238" key="GridCell.Tab.0.right" timestamp="1586785250716">
+    <state width="1506" height="134" key="GridCell.Tab.0.left/0.0.1549.871@0.0.1549.871" timestamp="1586935982275" />
+    <state width="1506" height="134" key="GridCell.Tab.0.right" timestamp="1586935982275">
       <screen x="0" y="0" width="1549" height="871" />
     </state>
-    <state width="1506" height="238" key="GridCell.Tab.0.right/0.0.1549.871@0.0.1549.871" timestamp="1586785250716" />
+    <state width="1506" height="134" key="GridCell.Tab.0.right/0.0.1549.871@0.0.1549.871" timestamp="1586935982275" />
     <state x="284" y="78" key="SettingsEditor" timestamp="1586704447391">
       <screen x="0" y="0" width="1549" height="871" />
     </state>
     <state x="284" y="78" key="SettingsEditor/0.0.1549.871@0.0.1549.871" timestamp="1586704447391" />
+    <state x="437" y="183" width="672" height="678" key="search.everywhere.popup" timestamp="1586932081655">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state x="437" y="183" width="672" height="678" key="search.everywhere.popup/0.0.1549.871@0.0.1549.871" timestamp="1586932081655" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/06_$cards_main.coverage" NAME="cards_main Coverage Results" MODIFIED="1586766867010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/06_$cards_main.coverage" NAME="cards_main Coverage Results" MODIFIED="1586933726191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
